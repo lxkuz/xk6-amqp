@@ -83,8 +83,8 @@ export default function () {
     // consumer: '',
     // auto_ack: true,
     // exclusive: false,
-		// no_local: false,
-		// no_wait: false,
+    // no_local: false,
+    // no_wait: false,
     // args: null
   })
 }
